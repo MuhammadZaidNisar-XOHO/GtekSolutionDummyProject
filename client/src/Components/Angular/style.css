@@ -1,0 +1,33 @@
+.Angular-main .MuiFormControl-fullWidth {
+  width: 80% !important;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Angular-field {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Angular-header {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0C242E;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Angular-Save-btn {
+  margin-top: 10px;
+}
+
+.disable-btn {
+  cursor: no-drop;
+}
+
+.Save-edit-btn-angular {
+  width: fit-content !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

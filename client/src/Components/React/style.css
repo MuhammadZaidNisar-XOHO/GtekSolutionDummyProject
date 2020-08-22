@@ -1,0 +1,23 @@
+.React-main .MuiFormControl-fullWidth {
+    width: 70% !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.React-field {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.React-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0C242E;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.React-Save-btn {
+    margin-top: 10px;
+}

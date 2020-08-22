@@ -1,0 +1,1 @@
+export const FINISH_ACTION = "FINISH_ACTION";

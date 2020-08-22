@@ -1,0 +1,1 @@
+export const ANGULAR_ACTION = "ANGULAR_ACTION";
